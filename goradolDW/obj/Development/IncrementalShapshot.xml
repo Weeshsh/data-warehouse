@@ -1,0 +1,89 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>goradolDW</Database>
+    <Server>MIKOLAJ\MSSQLSERVERHD</Server>
+    <ConnectionString>Data Source=MIKOLAJ\MSSQLSERVERHD;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>CF+1/dxumeALIluGEJpv7qqoQ9U=07.12.2025 16:47:0929.11.2025 13:09:00</TimeStamp>
+        <ID>
+          <String>Hurtownia Goradol</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>wlnuJsfXnHuWLgzGFR/KEkwqlZU=13.12.2025 20:21:5829.11.2025 13:09:00</TimeStamp>
+        <ID>
+          <String>Hurtownia Goradol</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>LaoAv5c4gS2jRhS6MzST5YIf8u4=07.12.2025 14:17:2229.11.2025 13:09:00</TimeStamp>
+        <ID>
+          <String>Data</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>N2beTL2BKKcLFaPSc2+gPeFGTQI=07.12.2025 16:26:1029.11.2025 13:09:00</TimeStamp>
+        <ID>
+          <String>Wyciag</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>QrEOYahphfarjsnQCV8SG5M0Uyc=29.11.2025 13:09:0029.11.2025 13:09:00</TimeStamp>
+        <ID>
+          <String>Awaria</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>YmUk59fwCoR8JeEVBRWuxV1nK40=14.12.2025 21:02:5629.11.2025 13:09:00</TimeStamp>
+        <ID>
+          <String>Czas</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>8mrz3evOObLeiyL00svqQboI2MM=07.12.2025 14:11:2629.11.2025 13:09:00</TimeStamp>
+        <ID>
+          <String>Przystoj</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>1KtnmvA8di5w5qaG0H4LKUWiZwI=14.12.2025 23:33:4529.11.2025 13:09:00W5bmLiKx8bY+35uvbNNhwwyg+M8=13.12.2025 20:21:0929.11.2025 13:09:00</TimeStamp>
+        <ID>
+          <String>Hurtownia Goradol</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>IYhQqcg4Pbp/ss/XLAKgdkBq17Y=29.11.2025 13:09:0029.11.2025 13:09:00</TimeStamp>
+      <ID>
+        <String>goradolDW</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2025-12-14T22:38:54.533333Z</LastDeployed>
+</DeploymentSnapshot>

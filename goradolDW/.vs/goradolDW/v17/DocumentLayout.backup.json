@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6948F2E-B698-E71B-62BD-65DCC4E21A94}|goradolDW.dwproj|C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\Hurtownia Goradol.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D6948F2E-B698-E71B-62BD-65DCC4E21A94}|goradolDW.dwproj|solutionrelative:Hurtownia Goradol.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6948F2E-B698-E71B-62BD-65DCC4E21A94}|goradolDW.dwproj|C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\Czas.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D6948F2E-B698-E71B-62BD-65DCC4E21A94}|goradolDW.dwproj|solutionrelative:Czas.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6948F2E-B698-E71B-62BD-65DCC4E21A94}|goradolDW.dwproj|C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\Hurtownia Goradol.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D6948F2E-B698-E71B-62BD-65DCC4E21A94}|goradolDW.dwproj|solutionrelative:Hurtownia Goradol.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F68A654-A634-5434-4719-FDBCDA87181A}|..\\LoadETL\\LoadETL.dtproj|C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\LoadETL\\LoadETL.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F68A654-A634-5434-4719-FDBCDA87181A}|..\\LoadETL\\LoadETL.dtproj|C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\LoadETL\\InitializeDateAndTime.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Czas.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\Czas.dim",
+              "RelativeDocumentMoniker": "Czas.dim",
+              "ToolTip": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\Czas.dim [Design]",
+              "RelativeToolTip": "Czas.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-14T19:54:01.611Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hurtownia Goradol.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\Hurtownia Goradol.cube",
+              "RelativeDocumentMoniker": "Hurtownia Goradol.cube",
+              "ToolTip": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\Hurtownia Goradol.cube [Design]",
+              "RelativeToolTip": "Hurtownia Goradol.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-07T14:34:23.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadETL.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\LoadETL\\LoadETL.dtsx",
+              "RelativeDocumentMoniker": "..\\LoadETL\\LoadETL.dtsx",
+              "ToolTip": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\LoadETL\\LoadETL.dtsx [Design]",
+              "RelativeToolTip": "..\\LoadETL\\LoadETL.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAR0SURBVFhHxZZbiFZVFMd/zkVNjKSsBsSM8PbQQyA9peJANGYqlmUJdlNScySHaMgkkiEh7EEkQproPlNZEBU95EMmBEakhVCO8yDdHC85kzbfzPd92XfWWj3svc\u002Bcc77LzOSDfzics89lr/9e67/\u002B\u002B8CVhJlNSI67Pj9sqoqKIGaYKqaGmKEqmBqavFZFTRF174oq5/v/2vRKx5bXk/PWQorAu59\u002BY4\u002BsWhSPRXEE1BADEXcdibuO1FA1SmqowIeffMbAhYtcHMxt6tq7fUwk6pIDVU0Oqa\u002BDhoYJTJpYx5RJdVw9pZ5pUxuYfk0DN17byIzpE5l5wyRuaZrM7BmTiUTZ2fYwQOfyx57bmJqsClIERNIExgMDVIUz/X/z6AMrADoX37d1VBI1MzAeqLoFnO/P8edAjrualwB03n73hpokLpuAgROhGaLK9l172PvaG3Tt/5hisQjQmf0miZQIX\u002B06YK3rWpK3asIMFDAx1ByRL746yoXBYXLDeS4O5jh46BBHvnwzFSeJdAZEksNRofguMXyrGkubF7Bm5WLWP7iUJYsWZj8pQ0NyIJkSPPvWz6lxwO71t6Jm7Hj7ePYRAO2r5yMKKpZ9VIYyDWjmm9LM\u002BakDQM0d1Z6LmveM5EyVkWlD53CjQdWopVcVZ2JqNV7yKPOBMcTHvOCqQcy753hLIKo1VxYg6lRfDaIu/VrrJY9MBiLU0h81nupNHfgVBoFVfO6Dj2Uxqf58YU\u002B3tW9\u002BiKlX1cf3zPxkPu3qVxdWOSI4N47EiVkUjvX2sWfv7rH7gCvBSAbMcNtvHNytLpRA1GVihMzIyv9XCVQkbh3XamEyd1YlNp1I3BYcxaS8iNWIQtbGUIOyDIgZZmBm7HjnOM\u002B/d5yd3T10fNDDi/t7eOmjE6i4AJG6n5FQBjVH0BJZGQ1lbSjiggfylY0GxPe6K4PPVuJHJehlNGScUGLBZbshiSA69amOsxDvC4Fk9TkCUurctnOfPdO6geunNSJqdLzfE686oPFUL63L58RpD2KLFLoP/ZJ6txJe3vct/LApjpvRgEtbOKpBxNmt6oS41uH9p\u002B65ma3LZrFl6Sw2t9zEE3fO5PHmGay9o4kVt12XnSpLwHVB2FqpajTuT1nMOWfoAgDD\u002BLekDA5f4mx/npN9g/x08gI/9g5w4Lu\u002BZDjIEnBt6MVk0L56Hk/fO49tK\u002BfSunwuTy6bw8aW2a7uEoTozcnXWxXyxRLDhRK5QomhfImhghsPF0vJcJAlIKGtzE/ulR4FwwntFUSmrhTu99zNoWoVg4dzFmVt6FKqzk79rpY0oNgB/bPIRkiA655KwYcKJfLFKBkOKhEQ8ysNGYiV7rMjjlAkXqyx6TgCIlox\u002BFC\u002BRP6fcgKpNlzbusva29r47dS5ET/wgZ0V\u002B3obqLgNx8ydVZXTxXrWLWziyImBsuC5QomzAwUOfn861YYpAms2d9ivv/\u002BRvDUuNN/fxqoF0/n66BmGCiVyGQEWLwmHj52rTuCysaCzunkkkSBwxfEf2Ro\u002B2Y\u002BJf70AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-12-07T14:05:07.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitializeDateAndTime.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\LoadETL\\InitializeDateAndTime.dtsx",
+              "RelativeDocumentMoniker": "..\\LoadETL\\InitializeDateAndTime.dtsx",
+              "ToolTip": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\LoadETL\\InitializeDateAndTime.dtsx [Design]",
+              "RelativeToolTip": "..\\LoadETL\\InitializeDateAndTime.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAR0SURBVFhHxZZbiFZVFMd/zkVNjKSsBsSM8PbQQyA9peJANGYqlmUJdlNScySHaMgkkiEh7EEkQproPlNZEBU95EMmBEakhVCO8yDdHC85kzbfzPd92XfWWj3svc\u002Bcc77LzOSDfzics89lr/9e67/\u002B\u002B8CVhJlNSI67Pj9sqoqKIGaYKqaGmKEqmBqavFZFTRF174oq5/v/2vRKx5bXk/PWQorAu59\u002BY4\u002BsWhSPRXEE1BADEXcdibuO1FA1SmqowIeffMbAhYtcHMxt6tq7fUwk6pIDVU0Oqa\u002BDhoYJTJpYx5RJdVw9pZ5pUxuYfk0DN17byIzpE5l5wyRuaZrM7BmTiUTZ2fYwQOfyx57bmJqsClIERNIExgMDVIUz/X/z6AMrADoX37d1VBI1MzAeqLoFnO/P8edAjrualwB03n73hpokLpuAgROhGaLK9l172PvaG3Tt/5hisQjQmf0miZQIX\u002B06YK3rWpK3asIMFDAx1ByRL746yoXBYXLDeS4O5jh46BBHvnwzFSeJdAZEksNRofguMXyrGkubF7Bm5WLWP7iUJYsWZj8pQ0NyIJkSPPvWz6lxwO71t6Jm7Hj7ePYRAO2r5yMKKpZ9VIYyDWjmm9LM\u002BakDQM0d1Z6LmveM5EyVkWlD53CjQdWopVcVZ2JqNV7yKPOBMcTHvOCqQcy753hLIKo1VxYg6lRfDaIu/VrrJY9MBiLU0h81nupNHfgVBoFVfO6Dj2Uxqf58YU\u002B3tW9\u002BiKlX1cf3zPxkPu3qVxdWOSI4N47EiVkUjvX2sWfv7rH7gCvBSAbMcNtvHNytLpRA1GVihMzIyv9XCVQkbh3XamEyd1YlNp1I3BYcxaS8iNWIQtbGUIOyDIgZZmBm7HjnOM\u002B/d5yd3T10fNDDi/t7eOmjE6i4AJG6n5FQBjVH0BJZGQ1lbSjiggfylY0GxPe6K4PPVuJHJehlNGScUGLBZbshiSA69amOsxDvC4Fk9TkCUurctnOfPdO6geunNSJqdLzfE686oPFUL63L58RpD2KLFLoP/ZJ6txJe3vct/LApjpvRgEtbOKpBxNmt6oS41uH9p\u002B65ma3LZrFl6Sw2t9zEE3fO5PHmGay9o4kVt12XnSpLwHVB2FqpajTuT1nMOWfoAgDD\u002BLekDA5f4mx/npN9g/x08gI/9g5w4Lu\u002BZDjIEnBt6MVk0L56Hk/fO49tK\u002BfSunwuTy6bw8aW2a7uEoTozcnXWxXyxRLDhRK5QomhfImhghsPF0vJcJAlIKGtzE/ulR4FwwntFUSmrhTu99zNoWoVg4dzFmVt6FKqzk79rpY0oNgB/bPIRkiA655KwYcKJfLFKBkOKhEQ8ysNGYiV7rMjjlAkXqyx6TgCIlox\u002BFC\u002BRP6fcgKpNlzbusva29r47dS5ET/wgZ0V\u002B3obqLgNx8ydVZXTxXrWLWziyImBsuC5QomzAwUOfn861YYpAms2d9ivv/\u002BRvDUuNN/fxqoF0/n66BmGCiVyGQEWLwmHj52rTuCysaCzunkkkSBwxfEf2Ro\u002B2Y\u002BJf70AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-12-07T14:04:10.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hurtownia Goradol.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\Hurtownia Goradol.dsv",
+              "RelativeDocumentMoniker": "Hurtownia Goradol.dsv",
+              "ToolTip": "C:\\Users\\mikow\\OneDrive\\Pulpit\\EVERYTHING\\studia\\sem5\\hurtownie-danych\\laby\\full-hd\\lab5\\goradolDW\\Hurtownia Goradol.dsv [Design]",
+              "RelativeToolTip": "Hurtownia Goradol.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-07T15:09:29.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
